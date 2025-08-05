@@ -30,10 +30,10 @@ I'm a backend-focused developer exploring full-stack product development. I enjo
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 ![Kalpesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=prebillion&show_icons=true&theme=default&hide_title=true)
-![Visitor Count](https://komarev.com/ghpvc/?username=prebillion)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=kalpeshvume)
 
 
----

@@ -23,6 +23,4 @@ I'm a backend-focused developer exploring full-stack product development. I enjo
 
 ![Kalpesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=prebillion&show_icons=true&theme=default&hide_title=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prebillion&layout=compact)
-
 ---

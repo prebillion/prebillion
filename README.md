@@ -38,8 +38,10 @@ I'm a backend-focused developer exploring full-stack product development. I enjo
 
 ### 📊 GitHub Stats
 
-![Kalpesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=prebillion&show_icons=true&theme=default&hide_title=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=prebillion&theme=default)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=kalpeshvume)
+![Visitor Count](https://komarev.com/ghpvc/?username=prebillion)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prebillion&theme=default)
 
 

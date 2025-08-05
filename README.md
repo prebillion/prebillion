@@ -13,8 +13,6 @@ I'm a backend-focused developer exploring full-stack product development. I enjo
 ---
 
 ### 🛠️ Tech I Use
-### 🛠️ Tech Stack
-
 <p align="left">
   <img src="https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />

@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Kalpesh
 
-<!--
-**prebillion/prebillion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a backend-focused developer exploring full-stack product development. I enjoy working with Clojure, building APIs, payment gateways and learning new tools to create better software.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Currently Learning
+
+- Clojure DSA & spec
+- System design basics
+- React & frontend workflows
+
+---
+
+### 🛠️ Tech I Use
+
+`Clojure` `JavaScript` `HTML` `CSS` `Node.js`  
+`Ring` `Compojure` `OpenAI API` `Git` `Cloudflare Pages`
+
+---
+
+### 📈 GitHub Stats
+
+![Kalpesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=prebillion&show_icons=true&theme=default&hide_title=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prebillion&layout=compact)
+
+---

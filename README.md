@@ -38,8 +38,6 @@ I'm a backend-focused developer exploring full-stack product development. I enjo
 
 ### 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=prebillion&theme=default)
-
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prebillion&theme=default)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=prebillion)

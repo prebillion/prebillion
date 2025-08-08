@@ -6,7 +6,7 @@ I'm a backend-focused developer exploring full-stack product development. I enjo
 
 ### 🧠 Currently Learning
 
-- Clojure
+- DSA with Clojure
 - System design basics
 - React & frontend workflows
 

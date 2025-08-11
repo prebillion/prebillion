@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Kalpesh
 
-I'm a backend-focused developer exploring full-stack product development. I enjoy working with Clojure, building APIs, payment gateways and learning new tools to create better software.
-
+I'm a backend-focused developer with a growing interest in full-stack product development. Most of my work revolves around Clojure, where I build robust APIs, integrate payment gateways, and design efficient backend systems. I’m passionate about learning new tools, refining my craft, and delivering software that’s clean, reliable, and user-friendly.
 ---
 
 ### 🧠 Currently Learning

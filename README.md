@@ -41,3 +41,7 @@ I'm a backend-focused developer with a growing interest in full-stack product de
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=prebillion)
 
+<!-- GitHub Profile Stats -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=octocat&show_icons=true&theme=radical)
+
+

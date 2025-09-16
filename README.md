@@ -7,8 +7,6 @@ I'm a backend-focused developer with a growing interest in full-stack product de
 
 - DSA with Clojure
 - System design basics
-- React & frontend workflows
-
 ---
 
 ### 🛠️ Tech I Use

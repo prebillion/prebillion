@@ -35,14 +35,6 @@ I'm a backend-focused developer with a growing interest in full-stack product de
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prebillion&theme=default)
 
-<!-- GitHub Stats -->
-![Kalpesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=octocat&show_icons=true&theme=radical)
-
-<!-- Top Languages -->
-![Kalpesh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=octocat&layout=compact&theme=radical)
-
-
-![Visitor Count](https://komarev.com/ghpvc/?username=prebillion)
 
 
 

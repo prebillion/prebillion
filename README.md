@@ -24,11 +24,6 @@ I'm a backend-focused developer with a growing interest in full-stack product de
 </p>
 
 
----
-
-### 📊 GitHub Stats
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prebillion&theme=default)
 
 
 

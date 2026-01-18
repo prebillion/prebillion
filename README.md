@@ -7,7 +7,6 @@ I'm a backend-focused developer. Most of my work revolves around Clojure, where 
 ### 🛠️ Tech I Use
 <p align="left">
   <img src="https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ring-000000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Nomad-00C7B7?style=for-the-badge&logo=hashicorp&logoColor=white" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />

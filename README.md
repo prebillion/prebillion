@@ -12,7 +12,6 @@ I'm a backend-focused developer. Most of my work revolves around Clojure, where 
   <img src="https://img.shields.io/badge/Nomad-00C7B7?style=for-the-badge&logo=hashicorp&logoColor=white" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
   <img src="https://img.shields.io/badge/Telegram%20Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  <img src="https://img.shields.io/badge/Discord%20Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </p>
 
 

@@ -2,6 +2,8 @@
 
 I'm a backend-focused developer. Most of my work revolves around Clojure, where I build robust APIs, integrate payment gateways, and design efficient backend systems. I’m passionate about learning new tools, refining my craft, and delivering software that’s clean, reliable, and user-friendly.
 
+Curious about upcoming AI era
+
 ---
 
 ### 🛠️ Tech I Use
